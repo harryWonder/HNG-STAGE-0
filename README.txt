@@ -1,12 +1,12 @@
 Hello. My name is Ilori Stephen Adejuwon. I am a fullstack software developer and I am currently competing in the HNG Internship for a chance to elevate my career as a software developer.
 
-This process or stage as you might call it requires that I play around with a git a bit by creating a simple repository with a single commit which in this case is the README.txt file.
+This process or stage as you might call it requires that I play around with git a bit by creating a simple repository with a single commit which in this case is the README.txt file.
 
-I have created a simple blog on Lucid which would teach you how to get started with Git. But for the mean time, Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+I have created a simple blog on Lucid which would teach you how to get started with Git. But for the mean time, Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. And that's if you are wondering what Git is.
 
-In order not to waste your time, I will show you some simple steps that will get you familiar with Github.
+In order not to waste your time, I will show you some simple steps that will get you familiar with Git.
 
-1. Download Github for your operating System and follow the installation instructions.
+1. Download Git for your operating System and follow the installation instructions.
 3. Create a Git repository by visiting https://www.github.com. !Don't forget to signup or login.
 4. Create a simple project
 5. Open the project up in your terminal an try the following commands.
