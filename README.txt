@@ -2,7 +2,7 @@ Hello. My name is Ilori Stephen Adejuwon. I am a fullstack software developer an
 
 This process or stage as you might call it requires that I play around with git a bit by creating a simple repository with a single commit which in this case is the README.txt file.
 
-I have created a simple blog on Lucid which would teach you how to get started with Git. But for the mean time, Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. And that's if you are wondering what Git is.
+I have created a simple blog on Lucid at https://lucid.blog/stephenilori458/post/my-experience-with-git-push-383 which would teach you how to get started with Git. But for the mean time, Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. And that's if you are wondering what Git is.
 
 In order not to waste your time, I will show you some simple steps that will get you familiar with Git.
 
@@ -15,4 +15,4 @@ In order not to waste your time, I will show you some simple steps that will get
   3. git commit -m 'Initial Commit'
   4. git remote add origin YOUR_REPO_URL_ENDING_WITH_A_DOT_GIT
   5. git push origin master
-6. If you have any issue, you can read my blog on Lucid. Thanks for reading. Once again, I remain Ilori Stephen A.
+6. If you have any issue, you can read my blog on Lucid via https://lucid.blog/stephenilori458/post/my-experience-with-git-push-383. Thanks for reading. Once again, I remain Ilori Stephen A.
